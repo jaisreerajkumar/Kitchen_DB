@@ -1,0 +1,66 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.body{
+    font-family: "Young Serif", serif;
+}
+.section-one{
+background-color: black;
+color: white;
+padding: 20px;
+text-align: center;
+}
+.section-one__desc{
+    color: beige;
+    margin-top: 10px;
+}
+.container-one{
+padding: 5px;
+margin: 10px;
+}
+.section-two,.section-three,.section-four,.section-five{
+    background-color: white
+    padding: 20px;
+    text-align: center;
+    display: inline-block;
+    border:solid black 4px;
+    height: 300px;
+}
+.container-two{
+    padding: 5px;
+    margin: 10px;
+    text-align: center;
+}
+.container-three{
+    padding: 5px;
+    margin: 5px;
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+.section-button{
+    background-color: black;
+    color: white;
+    padding: 10px;
+    border-radius: 10px;
+    text-decoration: none;
+    margin: 10px;
+}
+.section-six{
+    background-color: white;
+    color: white;
+    padding:10px;
+    text-align: center;
+    display: inline-block;
+    background: transparent;
+    }
+.section-six__button{
+    background-color: yellow;
+    color:black;
+    padding: 10px;
+    text-decoration: none;
+    margin: 10px;
+    column-width: auto;
+height: 50px;
+}
